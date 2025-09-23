@@ -1,0 +1,39 @@
+name: Mirror HOMES CSV (Google → GitHub)
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Runs every hour at minute 7
+    - cron: "7 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch latest HOMES CSV
+        run: |
+          set -euo pipefail
+          mkdir -p data
+          curl -L --fail \
+            "https://docs.google.com/spreadsheets/d/e/2PACX-1vSE6xMSLJnN7dv4LsstlyMPfrV-uJJ01P3ukhRTqSBQ-bkBPF2DX2-5z6BNuHSJT-UdEjKipj4l7Utx/pub?output=csv" \
+            -o data/homes.csv
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/homes.csv
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            TS="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git commit -m "Update HOMES CSV: ${TS}"
+            git push
+          fi
