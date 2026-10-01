@@ -1,77 +1,19 @@
-Empowerment House — SLP Program Monitoring Report,,,,,
-"FY 2026–27 Q2 | July 1–September 30, 2026",,,,,
-Blue fields are management-confirmed. Grey values are calculated from frozen HOMES quarter-end evidence.,,,,,
-Management Approved,FALSE,Draft generated — Pending Management Review,,,
-,,,,,
-Management Confirmation — Questions 1–6,,,,,
-Q1,Organizational changes impacting project?,,,,Required
-Q2,New external challenges shaping project?,,,,Required
-Q3,Critical incidents meeting NLHC definition?,,,,Required
-Q4,Individuals with restrictions / alternative service plan,0,,,Required
-Q5,Auto: new EH move-ins this quarter,2,Supportive/transitional housing move-ins,2,Calculated
-Q5,Additional newly housed outside EH,0,"Of these, rental/NLHC/private market",0,Management
-Q6,NL Housing Rental Housing applications/referrals,0,,,Required
-,,,,,
-Question 7 — Caseload Information,,,,,
-Month,Clients at Month Start,New Clients,Closed Clients,Clients at Month End,Source
-July 2026,13,1,1,13,Frozen HOMES dates
-August 2026,13,0,0,13,Frozen HOMES dates
-September 2026,13,1,1,13,Frozen HOMES dates
-Total new clients this quarter,2,,,,Q2/Q3/Q4 formula includes new clients only
-,,,,,
-Question 8 — Demographics of NEW Clients,,,,,
-Age Category,Total,,Gender Breakdown,Total,
-18-29,1,,Female,0,
-30-39,0,,Male,2,
-40-54,1,,Gender Diverse,0,
-55-64,0,,Unknown,0,
-65+,0,,,,
-Unknown,0,,,,
-,,,,,
-Income Source,Total,,Household Composition,Total,
-Income Support,0,,Single,0,
-OAS/CPP,0,,Couple,0,
-CPP – Disability Benefit,0,,Family (2+),0,
-Workplace NL,0,,Unknown / Not Recorded,2,
-EI Benefits,0,,,,
-Student Funding,0,,,,
-Employed,0,,,,
-Other,0,,,,
-Unknown,1,,,,
-No income,1,,,,
-,,,,,
-,,,,,
-New Client Code,Booked In,Age,Gender,Income,Household composition is management-confirmed above
-BCle,7/27/2026,22,Male,Unknown,
-SDic,9/18/2026,47,Male,No income,
-,,,,,
-,,,,,
-,,,,,
-Question 9 — NLHC Intervention / Service Crosswalk,,,,,
-NLHC Category,Count,HOMES Services Included,Unmapped?,Quarter Total,Crosswalk
-Advocacy,0,Advocacy (0),,,Editable on SLP PMR Crosswalk
-Assistance in Housing Set Up,2,Provided Furniture (2),,,Editable on SLP PMR Crosswalk
-Assistance in obtaining ID's,0,ID Support (0),,,Editable on SLP PMR Crosswalk
-Basic Needs,95,"Basic Needs (Clothing) (0), Food Bank Support (2), Basic Needs (Hygiene Supplies) (4), Extra Meals/Food (76), Provided Laptop (0), Provided Cell Phone (0), Grocery Support (3), House Cleaning Supplies (10)",,,Editable on SLP PMR Crosswalk
-Check Ins,317,"Check In (295), Phone/Email Check in (22)",,,Editable on SLP PMR Crosswalk
-Education/Employment Assistance,0,"Employment Support (0), Education Support (0)",,,Editable on SLP PMR Crosswalk
-Financial Navigation,4,Banking (4),,,Editable on SLP PMR Crosswalk
-Health Navigation,10,"ASIST (0), First Aid (0), Medical/Dental Support (1), Medical/Dental Appointment (1), Pharmacy (8)",,,Editable on SLP PMR Crosswalk
-Outreach,17,Seen in Community (17),,,Editable on SLP PMR Crosswalk
-Supportive Programming,206,"Support Planning (14), Meaningful Engagement (176), Family Support (0), Life Skills Support (16)",,,Editable on SLP PMR Crosswalk
-Transportation,24,Transportation (24),,,Editable on SLP PMR Crosswalk
-Other — Intake / Assessment,1,Intake (1),,,Editable on SLP PMR Crosswalk
-Other — Attempted Client Contact,138,"Attempted Check In (137), Attempted Email/Phone Check In (1)",,,Editable on SLP PMR Crosswalk
-Other — Community Partner Coordination,3,Community Partner Engagement (3),,,Editable on SLP PMR Crosswalk
-Other — Tenancy / Room Monitoring,28,Room Check (28),,,Editable on SLP PMR Crosswalk
-Other — Housing Stabilization / Retention,0,Stabilization/Retention Intervention (0),,,Editable on SLP PMR Crosswalk
-Mapped service/intervention total,845,All recorded EH service/intervention activity accounted for,NO,845,
-,,,,,
-,,,,,
-Questions 10–11 — Management Context,,,,,
-Q10 Additional achievement/context,,,,,
-,,,,,
-Q11 Additional information/comments,,,,,
-,,,,,
-,,,,,
-"Q10 is drafted automatically from frozen EH outcomes, housing retention, transitions and approved Sherlock narratives. Management should verify alignment with the Service Agreement Schedule A before final approval.",,,,,
+Staff,Participant,Property,Date,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service,Outcome/Service
+Shawn,JRig,Lemarchant,10/1/2026,Lunch,Supper,Transportation,Legal,Check In,Room Check,Support Planning,Meaningful Engagement,,,,,,,,,,
+Shawn,JSta,Lemarchant,10/1/2026,Lunch,Supper,Check In,Room Check,,,,,,,,,,,,,,
+Shawn,JCli,Lemarchant,10/1/2026,Lunch,Supper,Check In,Room Check,Transportation,Banking,Transportation,Community Partner Engagement,,,,,,,,,,
+Shawn,ACol,Lemarchant,10/1/2026,Lunch,Supper,Attempted Check In,Room Check,,,,,,,,,,,,,,
+Shawn,CHat,Cabot,10/1/2026,Lunch,Supper,Check In,Attempted Check In,Room Check,Community Partner Engagement,,,,,,,,,,,,
+Shawn,LAnt,Cabot,10/1/2026,Lunch,Supper,Check In,Room Check,,,,,,,,,,,,,,
+Shawn,JOsm,Cabot,10/1/2026,Lunch,Supper,Check In,Room Check,,,,,,,,,,,,,,
+Shawn,JThi,Cabot,10/1/2026,Lunch,Supper,Check In,Room Check,Transportation,Pharmacy,Meaningful Engagement,Phone/Email Check In,,,,,,,,,,
+Shawn,JRei,Feild,10/1/2026,Lunch,Supper,Attempted Check In,Room Check,,,,,,,,,,,,,,
+Shawn,KGre,Feild,10/1/2026,Lunch,Supper,Attempted Check In,Room Check,,,,,,,,,,,,,,
+Shawn,PCha,Feild,10/1/2026,Lunch,Supper,Attempted Check In,Room Check,Phone/Email Check In,,,,,,,,,,,,,
+Shawn,SCra,Feild,10/1/2026,Lunch,Supper,Attempted Check In,Room Check,Seen in Community,,,,,,,,,,,,,
+Corey,CHat,Cabot,10/1/2026,Check In,Meaningful Engagement,,,,,,,,,,,,,,,,
+Corey,PCha,Feild,10/1/2026,Seen on Camera,,,,,,,,,,,,,,,,,
+Corey,KGre,Feild,10/1/2026,Seen on Camera,,,,,,,,,,,,,,,,,
+Corey,LAnt,Cabot,10/1/2026,Seen on Camera,,,,,,,,,,,,,,,,,
+Corey,JThi,Cabot,10/1/2026,Check In,Support Planning,,,,,,,,,,,,,,,,
+Corey,SCra,Feild,10/1/2026,Seen on Camera,,,,,,,,,,,,,,,,,
